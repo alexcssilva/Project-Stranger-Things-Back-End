@@ -1,9 +1,31 @@
-# Boas vindas ao repositório backend do projeto de Deploy - Stranger Things!
 
-Aqui você vai encontrar os locais para colocar suas repostas relativas aos requisitos de backend.
+# Projeto Stranger Things Back end
 
-**Lembre-se**: coloque as respostas apenas dos requisitos que contém o seguinte direcionamento:
+Apresentação do Projeto
 
-  - Adicione os comandos utilizados, de maneira sequencial, ao README do backend.
+### Introdução
 
-**Nota**: Este direcionamento está presente no [repositório](https://github.com/tryber/sd-017-stranger-things) em que os requisitos do projeto são destrinchados.
+O Projeto Stranger Things Back end pôe o deploy.
+
+#### Habilidades que foram exigidas:
+
+-   Heroku
+-   PM2
+
+#### Tecnologias utilizadas:
+
+-   Docker;
+-   Eslint;
+
+----------
+
+### Observação
+
+Este repositório contem o  **Stranger Things Back end**  que reúne o aprendizado, enquanto estudante da  [Trybe](https://www.betrybe.com/)  desenvolvido por:
+
+ **Linkedin  [Alex Silva](https://www.linkedin.com/in/alexcssilva/)**
+ 
+   **GitHub  [Trybe](https://github.com/tryber)**.
+
+----------
+
