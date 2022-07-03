@@ -16,6 +16,7 @@ O Projeto Stranger Things Back end pôe o deploy.
 
 -   Docker;
 -   Eslint;
+-   JavaScript;
 
 ----------
 
